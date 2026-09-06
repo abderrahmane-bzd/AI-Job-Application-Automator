@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 Copy the example environment file and fill in your own values:
 ```bash
-cp .env.example .env
+cp config.example.py
 ```
 
 You'll need:
