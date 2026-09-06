@@ -58,7 +58,7 @@ Your inputs (company, job description, CV)
 
 **1. Clone the repo and install dependencies**
 ```bash
-git clone https://github.com/your-username/ai-job-application-automator.git
+git clone https://github.com/abderrahmane-bzd/AI-Job-Application-Automator
 cd ai-job-application-automator
 pip install -r requirements.txt
 ```
